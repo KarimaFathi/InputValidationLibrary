@@ -1,0 +1,58 @@
+﻿  ValidationLibrary.cpp
+D:\ValidationLibrary\clsInputValidate.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ValidationLibrary.cpp')
+  
+D:\ValidationLibrary\clsString.h(39,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ValidationLibrary.cpp')
+  
+D:\ValidationLibrary\clsString.h(44,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ValidationLibrary.cpp')
+  
+D:\ValidationLibrary\clsString.h(228,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ValidationLibrary.cpp')
+  
+D:\ValidationLibrary\clsString.h(250,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ValidationLibrary.cpp')
+  
+D:\ValidationLibrary\clsString.h(272,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ValidationLibrary.cpp')
+  
+D:\ValidationLibrary\clsString.h(305,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ValidationLibrary.cpp')
+  
+D:\ValidationLibrary\clsString.h(359,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ValidationLibrary.cpp')
+  
+D:\ValidationLibrary\clsString.h(362,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ValidationLibrary.cpp')
+  
+  clsInputValidate.cpp
+D:\ValidationLibrary\clsInputValidate.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsInputValidate.cpp')
+  
+D:\ValidationLibrary\clsString.h(39,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+D:\ValidationLibrary\clsString.h(44,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+D:\ValidationLibrary\clsString.h(228,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+D:\ValidationLibrary\clsString.h(250,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+D:\ValidationLibrary\clsString.h(272,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+D:\ValidationLibrary\clsString.h(305,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+D:\ValidationLibrary\clsString.h(359,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+D:\ValidationLibrary\clsString.h(362,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsInputValidate.cpp')
+  
+  Generating Code...
+  ValidationLibrary.vcxproj -> D:\ValidationLibrary\x64\Debug\ValidationLibrary.exe
